@@ -7,12 +7,13 @@ My current interests lie in cybersecurity, cloud computing, and Zero Trust archi
 #### Beyond my technical interests, I spend my free time: 
 * Reading diverse genres (most recently read "Pyschology of Money" by Morgan Housel) 📚
 * Painting landscapes and expressing creativity through hands-on art projects 🎨
-* Spending time with my family and Maltese puppy, Tofu 🐕
-* Serving my local communities, through mentorship and engineering projects
+* Spending time in nature with my family and Maltese puppy, Tofu 🐕
+* Serving my local communities, through mentorship and engineering projects 🌱
 
 I'm always interested in internship opportunities, fellowships, and collaborative work. 
 
 ➡️ Please feel free to reach me at:
+
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:cherrylin1605@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherrylin-uva/)
 <!--
