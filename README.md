@@ -2,7 +2,7 @@
 
 I'm a student attending the University of Virginia, majoring in Computer Science and Cybersecurity in the School of Engineering & Applied Science. 💻
 
-My current interests lie in cybersecurity, cloud computing, and Zero Trust architectures, while I also carry passions for front-end engineering and UI/UX. I aspire to empower marginalized communities in STEM, innovate solutions that serve the public good, and make a positive impact. 🌎☁️🔐
+My current interests lie in cybersecurity, cloud computing, and Zero Trust architectures, while I also carry passions for front-end engineering and UI/UX. I aspire to empower marginalized communities in STEM, innovate solutions that serve the public good, and make a positive impact. 🌎🔐
 
 #### Beyond my technical interests, I spend my free time: 
 * Reading diverse genres (most recently read "Pyschology of Money" by Morgan Housel) 📚
